@@ -1,3 +1,5 @@
 Mariana Sánchez Acevedo
 23 años
 Aprender y comprender las bases fundamentales de la Programación Orientada a Objetos.
+Se pudo hacer el commit y subir la carpeta porque no está vacía, tiene contenido.
+Porque pueden generarse conflictos entre los archivos.
